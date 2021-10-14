@@ -1,0 +1,26 @@
+// //// EXERCICIO: CRIAR FUNÇÃO PARA SUBSTITUIR ESSE CODIGO USANDO STRUCT /////
+ struct < componetes do robor >
+{ 
+     int motor da roda esquerda;
+     int  motor da roda direita;
+     float  velMax esquerda;
+     float  VelMax direita;
+}
+
+struct componentes_do_robor robor;
+       
+printf( "\n------------- robor ----------\n\n\n");
+
+
+printf("motor: ");
+scanf("%d",&robor.motor da roda esquerda);
+
+printf("motor: ");
+scanf("%d",&robor.motor da roda direita);
+
+printf("velecocidade: ");
+scanf("%f",&robor.velMax esquerda);
+
+printf("velecocidade: ");
+scanf("%f",&robor.VelMax direita);
+  // //// EXERCICIO: CRIAR FUNÇÃO PARA SUBSTITUIR ESSE CODIGO USANDO STRUCT /////
